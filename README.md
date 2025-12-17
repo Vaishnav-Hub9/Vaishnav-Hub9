@@ -30,6 +30,11 @@ I believe consistency > hype.
 
 ---
 
+### 🌍 Open-source Contributions
+- 🧈 Contributed documentation improvements to **Butterlang** (merged PR)
+
+---
+
 ### 💬 You can ask me about
 - C, Python, Java (basics & problem solving)
 - GUI-based projects
