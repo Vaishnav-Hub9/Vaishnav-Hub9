@@ -66,15 +66,3 @@ I believe consistency > hype.
 </p>
 
 ---
-
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnav-Hub9&layout=compact" 
-       alt="Vaishnav-Hub9" />
-</p>
-
-<p>&nbsp;
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Hub9&show_icons=true" 
-       alt="Vaishnav-Hub9" />
-</p>
