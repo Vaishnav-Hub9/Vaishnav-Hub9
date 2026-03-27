@@ -6,10 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Learning+by+Building;Open+to+Collaborate+%26+Grow" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vaishnav-Hub9&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## About
@@ -36,7 +32,8 @@ I learn by **shipping projects, contributing to repositories, and staying consis
   - Added geofencing notifications  
   - Improved UI & map features  
 - 🧠 Built **Resume Fraud Detection AI project** (JavaScript-based)
-- 📦 Consistent contributions across Python, Java, and Flutter projects
+- 📦 Consistent contributions across Python, Java, and Flutter projects  
+- ✅ Multiple pull requests merged in active repositories  
 
 ---
 
