@@ -1,88 +1,71 @@
-<h1 align="center">Vaishnav</h1>
+<h1 align="center">Tadakamadla Vaishnav</h1>
 
 <h3 align="center">IT Undergraduate · Vasavi College of Engineering, Hyderabad</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Learning+by+Building;Open+to+Collaborate+%26+Grow" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Learning+by+Building;Open+to+Collaborate+%26+Grow" />
 </p>
 
 ---
 
 ## About
 
-IT undergraduate focused on building real-world projects and improving problem-solving skills.  
-I learn by **shipping projects, contributing to repositories, and staying consistent**.
+IT undergraduate focused on building **real-world systems, automation tools, and full-stack applications**.  
+I prioritize execution — shipping projects, solving problems, and improving consistently.
 
 ---
 
-## 🚧 Active Projects
+## 🚀 Key Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| **Weather Forecast App** | Python (Tkinter) | GUI app using APIs for real-time weather data |
-| **College Bus Tracker** | Flutter | Real-time tracking system with routes, ETA, and geofencing |
-| **FINVERSE** | Full Stack | Behavior-driven financial intelligence platform with analytics |
+| **VCE Bus Tracking System** | Flutter, Firebase, Google Maps | Real-time tracking system with dynamic routes, stops, ETA prediction, and background GPS tracking |
+| **FINVERSE** | React, Node.js, MongoDB | Behavioral finance platform with analytics, impulse detection, and opportunity cost modeling |
+| **ResumeGuard AI** | FastAPI, React, MongoDB | AI-powered resume fraud detection system with risk scoring and LLM-based validation |
+| **LeetCode Accountability System** | Python, GitHub Actions | Serverless automation tool that tracks submissions and sends inactivity alerts |
 
 ---
 
-## 🚀 Recent Activity & Contributions
+## ⚙️ Work Highlights
 
-- 🚀 Worked on **College Bus Tracking System (Flutter)**
-  - Implemented background tracking  
-  - Added geofencing notifications  
-  - Improved UI & map features  
-- 🧠 Built **Resume Fraud Detection AI project** (JavaScript-based)
-- 📦 Consistent contributions across Python, Java, and Flutter projects  
-- ✅ Multiple pull requests merged in active repositories  
+- Built a **high-concurrency real-time tracking system** handling live GPS updates (Ongoing) 
+- Implemented **background execution bypassing Android Doze Mode**  
+- Designed **serverless automation workflows using GitHub Actions**  
+- Integrated **LLM-based analysis for fraud detection systems**  
+- Optimized **API usage and database reads for performance + cost efficiency**
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌍 Open Source
 
-- Contributed documentation improvements to **Butterlang** (Merged PR)
+- Contributed to **Butterlang** (Merged PR)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> &nbsp;C &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> &nbsp;Java &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> &nbsp;Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-**Web**
-
+### Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;HTML &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;CSS &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp;JavaScript
-</p>
-
-**Mobile**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/> &nbsp;Flutter
-</p>
-
-**Currently Learning**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> &nbsp;MySQL &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;Node.js &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> &nbsp;MongoDB &nbsp;&nbsp;
-  ⚡ Full Stack Development
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
 ---
 
-## 💬 Ask Me About
+## 📊 Coding
 
-- C, Java, Python (basics + problem solving)  
-- GUI-based projects  
-- DSA learning strategies  
+- Solved **450+ problems on LeetCode**
+- Focus: Data Structures, Algorithms, Problem Solving
 
 ---
 
@@ -101,4 +84,4 @@ I learn by **shipping projects, contributing to repositories, and staying consis
 
 ---
 
-> *Still learning. Still building. No shortcuts.*
+> *No shortcuts. Just systems, consistency, and execution.*
