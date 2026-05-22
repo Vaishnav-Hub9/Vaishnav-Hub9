@@ -89,5 +89,7 @@ I prioritize execution — shipping projects, solving problems, and improving co
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnav-Hub9&theme=tokyo-night)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaishnav-Hub9&theme=tokyonight)
 
+---
 > *No shortcuts. Just systems, consistency, and execution.*
